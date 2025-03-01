@@ -2,3 +2,5 @@ streamlit
 ollama
 langchain
 langchain_ollama
+httpx
+
